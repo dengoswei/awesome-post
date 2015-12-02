@@ -10,3 +10,15 @@
 
 - [An Introduction to Microservices by Sebastián Peyrott](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 
+- [The C10K problem](http://www.kegel.com/c10k.html)
+
+- Memory by Florent Bruneau
+  - [Part 1: Memory Types](https://techtalk.intersec.com/2013/07/memory-part-1-memory-types/)
+  - [Part 2: Understanding Process memory](https://techtalk.intersec.com/2013/07/memory-part-2-understanding-process-memory/)
+  - [Part 3: Managing memory](https://techtalk.intersec.com/2013/08/memory-part-3-managing-memory/)
+  - [Part 4: Intersec’s custom allocators](https://techtalk.intersec.com/2013/10/memory-part-4-intersecs-custom-allocators/)
+  - [Part 5: Debugging Tools](https://techtalk.intersec.com/2013/12/memory-part-5-debugging-tools/)
+  - [Part 6: Optimizing the FIFO and Stack allocators](https://techtalk.intersec.com/2014/09/memory-part-6-optimizing-the-fifo-and-stack-allocators/)
+
+- [Deep Lessons From Google And EBay On Building Ecosystems Of Microservices](http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html)
+
