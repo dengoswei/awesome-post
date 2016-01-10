@@ -22,3 +22,5 @@
 
 - [Deep Lessons From Google And EBay On Building Ecosystems Of Microservices](http://highscalability.com/blog/2015/12/1/deep-lessons-from-google-and-ebay-on-building-ecosystems-of.html)
 
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
+
