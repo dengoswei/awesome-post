@@ -24,3 +24,7 @@
 
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
 
+- [bLSM: a general purpose log structured merge tree](www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf)
+
+
+
