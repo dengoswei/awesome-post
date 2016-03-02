@@ -6,8 +6,6 @@
 
 - [The Log: What every software engineer should know about real-time data's unifying abstraction by Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   
-- [Building DistributedLog: Twitter’s high-performance replicated log service by Leigh Stewart](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)
-
 - [An Introduction to Microservices by Sebastián Peyrott](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 
 - [The C10K problem](http://www.kegel.com/c10k.html)
@@ -25,6 +23,5 @@
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
 
 - [bLSM: a general purpose log structured merge tree](www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf)
-
 
 
