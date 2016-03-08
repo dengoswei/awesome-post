@@ -24,4 +24,8 @@
 
 - [bLSM: a general purpose log structured merge tree](www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf)
 
+- [Service Discovery: Zookeeper vs etcd vs Consul](http://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/)
 
+- [Microservices Resource Guide](http://martinfowler.com/microservices/)
+
+- [Google's Transition From Single Datacenter, To Failover, To A Native Multihomed Architecture](http://highscalability.com/blog/2016/2/23/googles-transition-from-single-datacenter-to-failover-to-a-n.html)
