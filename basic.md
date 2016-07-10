@@ -4,3 +4,5 @@
 
 - [Modern Microprocessors: A 90 Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/)
 
+- [Software optimization resources by Agner Fog](http://agner.org/optimize/)
+
