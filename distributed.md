@@ -1,5 +1,9 @@
 #### AWESOME DISTRIBUTED
 
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+
+- [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
+
 - [Building DistributedLog: Twitter’s high-performance replicated log service by Leigh Stewart](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service)
 
 - [Vivaldi: A Decentralized Network Coordinate System](http://www.cs.ucsb.edu/~ravenben/classes/276/papers/vivaldi-sigcomm04.pdf)
@@ -13,3 +17,4 @@
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 
 - [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.ethtk4hsh)
+

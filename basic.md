@@ -6,3 +6,6 @@
 
 - [Software optimization resources by Agner Fog](http://agner.org/optimize/)
 
+- [Numbers Everyone Should Know ](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+
+- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
