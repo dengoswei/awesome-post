@@ -26,6 +26,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf)
 - [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 
 
-## APPLICATION
+## APPLICATION WITH DL
 
 - [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
+
+- [ENGINEERING EXTREME EVENT FORECASTING AT UBER WITH RECURRENT NEURAL NETWORKS](https://eng.uber.com/neural-networks/)

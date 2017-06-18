@@ -8,6 +8,10 @@
 
 - [TLA+ in Practice and Theory Part 2: The + in TLA+](https://pron.github.io/posts/tlaplus_part2)
 
+- [TLA+ in Practice and Theory Part 3: The (Temporal) Logic of Actions](https://pron.github.io/posts/tlaplus_part3)
+
+- [TLA+ in Practice and Theory Part 4: Order in TLA+](https://pron.github.io/posts/tlaplus_part4)
+
 ## ML & DL
 
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
@@ -27,6 +31,11 @@
 
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 
+- [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
+
+## DL: APPLICATION
+- [LSTM Music Generation with Google Magenta Basic RNN](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn#basic)
+
 ## tensor-flow
 
 - [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
@@ -35,3 +44,5 @@
 
 ## Blockchain
 - [Chapter 7. The Blockchain](http://chimera.labs.oreilly.com/books/1234000001802/ch07.html)
+
+
