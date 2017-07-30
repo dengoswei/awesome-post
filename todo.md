@@ -24,17 +24,21 @@
 
 - [Recurrent Neural Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
-
 - [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](http://jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
 
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 
 - [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
 
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+- [CS231n: Schedule and Syllabus](http://cs231n.stanford.edu/syllabus.html)
+
+- [RECURRENT NEURAL NETWORK REGULARIZATION](https://arxiv.org/pdf/1409.2329.pdf)
+
 ## DL: APPLICATION
 - [LSTM Music Generation with Google Magenta Basic RNN](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn#basic)
+
+- [The Google Brain Residency Program — One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
 
 ## tensor-flow
 
