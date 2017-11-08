@@ -7,6 +7,9 @@
 
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
 
+- [A Primer on Neural Network Models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
+
 - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
 
-- [A Primer on Neural Network Models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
+- [Word embedding in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
+

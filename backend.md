@@ -1,5 +1,7 @@
 #### AWESOME BACKEND 
 
+- [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
+
 - [Building Scalable Stateful Services by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
 
 - [Five Years of Building Instagram by Mike Krieger](https://medium.com/backchannel/war-stories-3696d00207ff#.fwmsw3fhy)
