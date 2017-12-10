@@ -1,5 +1,9 @@
 #### AWESOME BACKEND 
 
+- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/)
+
+- [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html)
+
 - [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 
 - [Building Scalable Stateful Services by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
