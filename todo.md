@@ -12,6 +12,16 @@
 
 - [TLA+ in Practice and Theory Part 4: Order in TLA+](https://pron.github.io/posts/tlaplus_part4)
 
+## Reinforcement-Learning
+
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) 
+
+- [CS 294: Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
+
+- [Learning to Optimize with Reinforcement Learning](http://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
+
+- [AWESOME RL](https://github.com/aikorea/awesome-rl)
+
 ## ML & DL
 
 - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
@@ -48,5 +58,11 @@
 
 ## Blockchain
 - [Chapter 7. The Blockchain](http://chimera.labs.oreilly.com/books/1234000001802/ch07.html)
+
+
+## other
+- [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
+
+- [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 
 
