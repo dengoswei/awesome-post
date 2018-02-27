@@ -35,3 +35,16 @@
 - [Microservices Resource Guide](http://martinfowler.com/microservices/)
 
 - [Google's Transition From Single Datacenter, To Failover, To A Native Multihomed Architecture](http://highscalability.com/blog/2016/2/23/googles-transition-from-single-datacenter-to-failover-to-a-n.html)
+
+- [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+
+- [42 Monster Problems That Attack As Loads Increase](http://highscalability.com/blog/2013/2/27/42-monster-problems-that-attack-as-loads-increase.html)
+
+- [7 Life Saving Scalability Defenses Against Load Monster Attacks](http://highscalability.com/blog/2013/3/4/7-life-saving-scalability-defenses-against-load-monster-atta.html)
+
+- [Big List Of 20 Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
+
+- [Thinking Clearly about Performance](https://queue.acm.org/detail.cfm?id=1854041)
+
+- [Thinking Methodically about Performance](https://queue.acm.org/detail.cfm?id=2413037)
+

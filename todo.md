@@ -66,3 +66,7 @@
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 
 
+## Google Cloud AutoML
+- [Cloud AutoML: Making AI accessible to every business](https://blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/)
+
+- [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://arxiv.org/pdf/1611.01578.pdf)
