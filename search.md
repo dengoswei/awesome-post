@@ -10,3 +10,7 @@
   - clustering the vectors with k-means
 
 - [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734)
+
+- [Building a Content-Based Search Engine I: Quantifying Similarity](http://www.deepideas.net/building-content-based-search-engine-quantifying-similarity/)
+
+- [Building a Content-Based Search Engine II: Extracting Feature Vectors](http://www.deepideas.net/building-content-based-search-engine-feature-extraction/)

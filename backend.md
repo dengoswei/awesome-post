@@ -38,13 +38,12 @@
 
 - [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
-- [42 Monster Problems That Attack As Loads Increase](http://highscalability.com/blog/2013/2/27/42-monster-problems-that-attack-as-loads-increase.html)
+- [When is a senior engineer not a senior engineer?](http://www.mooreds.com/wordpress/archives/2812)
 
-- [7 Life Saving Scalability Defenses Against Load Monster Attacks](http://highscalability.com/blog/2013/3/4/7-life-saving-scalability-defenses-against-load-monster-atta.html)
+- [2013年个人微博推荐技术资料汇总](http://hedengcheng.com/?p=828)
 
-- [Big List Of 20 Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
+- [RETURN OF THE BORG: HOW TWITTER REBUILT GOOGLE'S SECRET WEAPON](https://www.wired.com/2013/03/google-borg-twitter-mesos/)
 
-- [Thinking Clearly about Performance](https://queue.acm.org/detail.cfm?id=1854041)
-
-- [Thinking Methodically about Performance](https://queue.acm.org/detail.cfm?id=2413037)
+### sequence number
+- [Announcing Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
 

@@ -19,3 +19,5 @@
 - [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.ethtk4hsh)
 
 - [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+
+- [A brief history of Consensus, 2PC and Transaction Commit](http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html)

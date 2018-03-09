@@ -22,4 +22,6 @@
 
 - [Mastering concurrency in Go](https://www.outlearn.com/learn/matryer/mastering-concurrency-in-go?utm_source=golangweekly&utm_medium=email)
 
+- [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
 
+- [go-perfbook](https://github.com/dgryski/go-perfbook)

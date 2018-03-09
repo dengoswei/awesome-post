@@ -51,6 +51,8 @@
 
 - [Ethereum won’t scale like you’ve…. (part 2)](https://medium.com/@yobanjo/ethereum-wont-scale-like-you-ve-part-2-9e9ee42d07c5)
 
+- [DPOS Consensus Algorithm - The Missing White Paper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)
+
 ### OpenSource Project
 
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
@@ -68,3 +70,4 @@
 - ethereum/eos
 - dogcoin
 - ripper/litecoin/swftcoin
+- bitshares
