@@ -21,3 +21,7 @@
 - [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 - [A brief history of Consensus, 2PC and Transaction Commit](http://betathoughts.blogspot.com/2007/06/brief-history-of-consensus-2pc-and.html)
+
+- [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html)
+
+- [A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)

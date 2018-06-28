@@ -42,8 +42,12 @@
 
 - [2013年个人微博推荐技术资料汇总](http://hedengcheng.com/?p=828)
 
+- [个人订阅的10佳博客与相关介绍](http://hedengcheng.com/?p=676)
+
 - [RETURN OF THE BORG: HOW TWITTER REBUILT GOOGLE'S SECRET WEAPON](https://www.wired.com/2013/03/google-borg-twitter-mesos/)
 
-### sequence number
-- [Announcing Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
+### 
+- [sequence number: Announcing Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
+
+- [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed)
 

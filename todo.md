@@ -45,6 +45,8 @@
 
 - [RECURRENT NEURAL NETWORK REGULARIZATION](https://arxiv.org/pdf/1409.2329.pdf)
 
+- [Explained Simply: How an AI program mastered the ancient game of Go](https://medium.com/@mngrwl/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)
+
 ## DL: APPLICATION
 - [LSTM Music Generation with Google Magenta Basic RNN](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn#basic)
 
@@ -60,13 +62,58 @@
 - [Chapter 7. The Blockchain](http://chimera.labs.oreilly.com/books/1234000001802/ch07.html)
 
 
+## Google Cloud AutoML
+- [Cloud AutoML: Making AI accessible to every business](https://blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/)
+
+- [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://arxiv.org/pdf/1611.01578.pdf)
+
+## mysql 
+- [The MySQL “swap insanity” problem and the effects of the NUMA architecture](https://blog.jcole.us/2010/09/28/mysql-swap-insanity-and-the-numa-architecture/)
+
+- [Write optimized fractal tree storage](https://github.com/percona/tokudb-engine/wiki/Write-optimized-fractal-tree-storage)
+
+- [Publications Related to Fractal Tree Indexing](https://www.percona.com/blog/2009/05/22/publications_related_to_fractal_tree_indexing/)
+
+## storage
+- [Cache Craftiness for Fast Multicore Key-Value Storage](https://pdos.csail.mit.edu/papers/masstree:eurosys12.pdf)
+
+- [OLTP Through the Looking Glass, and What We Found There](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf)
+
 ## other
 - [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
 
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 
+- [An incomplete list of classic papers every Software Architect should read](https://blog.valbonne-consulting.com/2014/06/09/an-incomplete-list-of-classic-papers-every-software-architect-should-read/)
 
-## Google Cloud AutoML
-- [Cloud AutoML: Making AI accessible to every business](https://blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/)
+- [END-TO-END ARGUMENTS IN SYSTEM DESIGN](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 
-- [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://arxiv.org/pdf/1611.01578.pdf)
+- [A critical review of “End-to-end arguments in system design](http://maestro.ee.unsw.edu.au/~timm/pubs/02icc/published.pdf)
+
+- [Protocol aware recovery for consensus-based storage](https://blog.acolyer.org/2018/02/27/protocol-aware-recovery-for-consensus-based-storage/)
+
+- [A survey on security and privacy issues of Bitcoin](https://blog.acolyer.org/2018/02/15/a-survey-on-security-and-privacy-issues-of-bitcoin/)
+
+- [SoK: Consensus in the age of blockchains](https://blog.acolyer.org/2018/02/12/sok-consensus-in-the-age-of-blockchains/)
+
+- [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
+
+- [Barrier-enabled IO stack for flash storage ](https://blog.acolyer.org/2018/02/28/barrier-enabled-io-stack-for-flash-storage/)
+
+- [Settling payments fast and private: efficient decentralized routing for path-based transactions](https://blog.acolyer.org/2018/03/09/settling-payments-fast-and-private-efficient-decentralized-routing-for-path-based-transactions/)
+
+- [The Machine Learning Reproducibility Crisis](https://petewarden.com/)
+
+- [TimescaleDB Overview](https://docs.timescale.com/v0.9/introduction)
+
+- [The State of the Art in Distributed Query Processing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.9184&rep=rep1&type=pdf)
+
+- [Local and distributed query processing in CockroachDB](https://www.cockroachlabs.com/blog/local-and-distributed-processing-in-cockroachdb/)
+
+- [Data Page Layouts for Relational Databases on Deep Memory Hierarchies](http://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf)
+
+- [Making Facebook self-healing: Automating proactive rack maintenance](https://code.facebook.com/posts/629906427171799/making-facebook-self-healing-automating-proactive-rack-maintenance/)
+
+- [Scaling Out](https://code.facebook.com/posts/1376450079242246/scaling-out/)
+
+- [Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/)
