@@ -25,3 +25,5 @@
 - [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html)
 
 - [A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
+
+- [Making reliable distributed systems in the presence of sodware errors](http://erlang.org/download/armstrong_thesis_2003.pdf)

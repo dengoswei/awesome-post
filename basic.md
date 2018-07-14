@@ -13,3 +13,5 @@
 - [LinkedIn’s Tips for Highly Effective Code Review](https://thenewstack.io/linkedin-code-review/)
 
 - [What are some traits/practices of experienced/good programmers that every beginner programmer should know to make them better at their craft? What would you as an experienced programmer have liked to have known when starting to program?](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know-to-make-them-better-at-their-craft-What-would-you-as-an-experienced-programmer-have-liked-to-have-known-when-starting-to-program/answer/Ken-Mazaika)
+
+- [The Rise of Worse is Better](http://dreamsongs.com/RiseOfWorseIsBetter.html)
