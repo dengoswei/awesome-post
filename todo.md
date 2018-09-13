@@ -117,3 +117,10 @@
 - [Scaling Out](https://code.facebook.com/posts/1376450079242246/scaling-out/)
 
 - [Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/)
+
+## k8s
+- [k8s - concepts](https://kubernetes.io/docs/concepts/storage/volumes/)
+
+## 
+- [Location-Aware Distribution: Configuring servers at scale](https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/)
+

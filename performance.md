@@ -18,3 +18,20 @@
 
 - [The Secret To 10 Million Concurrent Connections -The Kernel Is The Problem, Not The Solution](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
 
+- [BitFunnel performance estimation](http://bitfunnel.org/strangeloop/)
+
+- [Things that Matter - Scott Meyers | DConf2017](https://www.youtube.com/watch?time_continue=429&v=RT46MpK39rQ)
+
+- [How NOT to Measure Latency by Gil Tene](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+
+- [A Summary of Jon Louis Bentley's Writing Efficient Programs](http://www.crowl.org/lawrence/programming/Bentley82.html)
+
+- [Writing Efficient Programs](http://www.geoffprewett.com/BookReviews/WritingEfficientPrograms.html)
+
+- [Rules for Code Tuning](https://web.archive.org/web/20080513070949/http://www.cs.bell-labs.com/cm/cs/pearls/apprules.html)
+
+## golang;
+- [go benchstat](https://godoc.org/golang.org/x/perf/benchstat)
+
+## case study
+- [Unwinding Uber’s Most Efficient Service](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)

@@ -26,6 +26,8 @@
 
 - [Memcached vs. Redis?](https://stackoverflow.com/questions/10558465/memcached-vs-redis/11257333#11257333)
 
+- [Introducing mcrouter: A memcached protocol router for scaling memcached deployments](https://code.fb.com/core-data/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/)
+
 ### MySQL 
 - [InnoDB by Jeremy Cole](https://blog.jcole.us/innodb/)
 
@@ -60,3 +62,9 @@
 - ForestDB- A Fast Key-Value Storage System for Variable-Length String Keys
 
 - [SSTable compaction and compaction strategies](https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies)
+
+### 
+- [Read, write & space amplification - B-Tree vs LSM](http://smalldatum.blogspot.com/2015/11/read-write-space-amplification-b-tree.html)
+
+- [Index+log - an alternative to LSM](http://smalldatum.blogspot.com/2018/07/indexlog-alternative-to-lsm.html)
+

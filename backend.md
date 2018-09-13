@@ -51,3 +51,8 @@
 
 - [How production engineers support global events on Facebook](https://code.facebook.com/posts/166966743929963/how-production-engineers-support-global-events-on-facebook/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed)
 
+- [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+
+- [nginx](http://aosabook.org/en/nginx.html)
+
+- [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
