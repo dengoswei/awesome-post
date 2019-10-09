@@ -39,3 +39,7 @@
 - [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
 
 - [ENGINEERING EXTREME EVENT FORECASTING AT UBER WITH RECURRENT NEURAL NETWORKS](https://eng.uber.com/neural-networks/)
+
+
+## AB Test
+- [Efficient tuning of online systems using Bayesian optimization](https://code.fb.com/ml-applications/bayesian-optimization-for-tuning-online-systems-with-a-b-tests/)

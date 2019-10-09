@@ -68,3 +68,18 @@
 
 - [Index+log - an alternative to LSM](http://smalldatum.blogspot.com/2018/07/indexlog-alternative-to-lsm.html)
 
+
+### kafka
+- [Intra-cluster Replication in Apache Kafka](https://engineering.linkedin.com/kafka/intra-cluster-replication-apache-kafka)
+
+### new 
+- [Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine](https://eng.uber.com/aresdb/)
+
+### cache
+- [Introducing Ristretto: A High-Performance Go Cache](https://blog.dgraph.io/post/introducing-ristretto-high-perf-go-cache/)
+
+- [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+
+- [The State of Caching in Go](https://blog.dgraph.io/post/caching-in-go/)
+
+

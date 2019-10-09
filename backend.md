@@ -56,3 +56,5 @@
 - [nginx](http://aosabook.org/en/nginx.html)
 
 - [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
+
+- [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed?spm=a2c4e.11153940.blogcont635629.11.734549170TvhbR)

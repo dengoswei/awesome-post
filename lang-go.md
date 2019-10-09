@@ -10,6 +10,20 @@
 
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 
+- [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
+
+### memory
+- [g101 memory leak](https://go101.org/article/memory-leaking.html)
+
+### GC
+
+- [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote)
+
+- [Go 1.5 concurrent garbage collector pacing](https://docs.google.com/document/d/1wmjrocXIWTr1JxU-3EQBI6BK6KgtiFArkG47XK73xIQ/edit#)
+
+- [Go GC: Prioritizing low latency and simplicity](https://blog.golang.org/go15gc)
+
+- [Golang’s Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 
 ### blog post
 
@@ -31,5 +45,14 @@
 
 - [Build in the Cloud: Accessing Source Code](http://google-engtools.blogspot.com/2011/06/build-in-cloud-accessing-source-code.html)
 
+- ["package pointer"](https://godoc.org/golang.org/x/tools/go/pointer)
+
 ### talks/ppt
 - [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)
+
+
+### impl
+
+- [time.Sleep](https://github.com/golang/go/issues/25471)
+
+- [How Do They Do It: Timers in Go](https://blog.gopheracademy.com/advent-2016/go-timers/)

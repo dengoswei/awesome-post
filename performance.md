@@ -35,3 +35,11 @@
 
 ## case study
 - [Unwinding Uber’s Most Efficient Service](https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d)
+
+## linux
+- [Linux Network Tuning for 2013](http://www.nateware.com/linux-network-tuning-for-2013.html#.W8nprBMzafd)
+
+- [Getting Started with PSI](https://facebookmicrosites.github.io/psi/docs/overview)
+
+## perf
+- [Java in Flames](https://medium.com/netflix-techblog/java-in-flames-e763b3d32166)
